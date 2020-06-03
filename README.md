@@ -1,6 +1,5 @@
 # Quack3200-Assembler-and-Emulator
 Quack3200 is a decimal computer with 100,000 words of memory. This program assembles the code for the machine and emulates it.
-<<<<<<< HEAD
 
 # Symbolic Op Codes
 01 ADD
@@ -49,5 +48,4 @@ Errors.h - the definition of the class to perform error reporting.
 Errors.cpp - the implementation of the class to perform error reporting.
 
 Emulator.h - the definition for the emulator class.
-=======
->>>>>>> b45f9843f4a192f81178789cda918a3032e38a88
+
